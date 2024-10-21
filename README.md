@@ -7,7 +7,7 @@ I fixed the screen issue for NerdMiner_v2 on ESP32-2432S024C, TOUCH NOT CURRENTL
 
 ## Install instructions
 
-Visit the [webflasher](https://jbman2025.github.io/Nerdminer-v2-esp32-2432s024c-screen-fix-flash/) and click Connect
+Visit the [webflasher](https://jbman2025.github.io/Nerdminer-v2-esp32-2432s024c-screen-fix-flash/flash.html) and click Connect
 
 ## NerdMiner configuration
 
