@@ -1,7 +1,7 @@
 # NerdMiner_v2 Cheap-Yellow-Display ESP32-2432S024C Screen Fix
 
 <p align="center">
-  <img src="https://github.com/Fr4nkFletcher/NerdMiner_v2-Cheap-Yellow-Display/blob/main/img/nmv2.jpg" alt="Demo 1">
+  <img src="https://github.com/jbman2025/Nerdminer-v2-esp32-2432s024c-screen-fix-flash/blob/main/img/nmv2.jpg" alt="Demo 1">
 </p>
 I fixed the screen issue for NerdMiner_v2 on ESP32-2432S024C, TOUCH NOT CURRENTLY SUPPORTED. 
 
