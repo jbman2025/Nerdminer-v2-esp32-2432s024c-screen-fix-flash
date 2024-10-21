@@ -22,13 +22,12 @@ Note: When the BTC address of your selected wallet is not provided, mining will 
    - PASS: MineYourCoins
 2. Set up your Wifi Network
 3. Add your BTC address
+   - If you are using public-pool.io and you want to set a custom name to your worker you can add .yourworkername to the BTC address. "yourBTCaddress.yourworkername" for exaple
 
 Boot Button:
   - One click > change screen.
   - Double click > change screen orientation.
   - Tripple click > turn the screen off and on again.
   - Hold 5 seconds > reset the configurations and reboot your NerdMiner.
-
-  - If you are using public-pool.io and you want to set a custom name to your worker you can append a string with format _.yourworkername_ to the address
 
 To remotely view your miner's progress, visit: [web.public-pool.io](https://web.public-pool.io/#/)
